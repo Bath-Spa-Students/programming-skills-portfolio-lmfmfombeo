@@ -1,5 +1,4 @@
-f_name = " mohd"
-l_name = " rashid"
-name = f_name + l_name
-print(name,end ="")
-print(" new line message")
+# displaying formatted output with f-string
+print(f'hello world')
+
+print(f'the value is {10 +20} ')
