@@ -14,3 +14,6 @@ print(age)
 #math operators
 ans = ((2*3/8+(23+5)))
 print(int (ans))
+
+import turtle
+turtle.forward(100)
