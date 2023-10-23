@@ -7,7 +7,7 @@
 
 #Print a second set of invitation messages, one for each person who is still in your list.
 
-invitations = ["Michael Jackson", "Jet Li", "Donnie Yen"]
+invitations = ["abdullah", "fasial", "abubaker"]
 
 for invitation in invitations:
     print("Welcome to my dinner party {}".format(invitation))
@@ -18,6 +18,6 @@ print("{} can't make it to the party".format(invitations[2]))
 invitations.pop(2)
 print()
 
-invitations.append("Jackie Chan") 
+invitations.append("adil") 
 for invitation in invitations:
     print("Welcome to my dinner party {}".format(invitation))
