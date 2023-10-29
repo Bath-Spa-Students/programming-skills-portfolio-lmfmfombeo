@@ -8,7 +8,7 @@ alien_color = 'green'
 if alien_color == 'green':
     print("you just earned 5 points.")
 
-#test and another that fails.
+#test another one that fails.
 alien_color = 'red'
 if alien_color == 'green':
     print("you just earned 5 points")
