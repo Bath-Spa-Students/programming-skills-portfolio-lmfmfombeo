@@ -40,3 +40,5 @@ print(list3)
 new_list =[10,20,30,4,5,6,7]
 result= new_list [2:4]
 print(result)
+
+#
