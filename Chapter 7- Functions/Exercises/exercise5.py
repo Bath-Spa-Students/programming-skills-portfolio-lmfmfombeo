@@ -4,10 +4,10 @@
 
 #Call your function for three different cities, at least one of which is not in the default country.
 
-def describe_city(city, country="USA"):
+def describe_city(city, country="pakistan"):
     print(f"{city} is in {country}.")
 
 # Call the function for different cities and countries
-describe_city("New York")
-describe_city("Reykjavik", "Iceland")
+describe_city("karachi")
+describe_city("multan")
 describe_city("London", "UK")
