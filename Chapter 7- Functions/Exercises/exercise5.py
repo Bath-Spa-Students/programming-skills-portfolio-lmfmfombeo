@@ -7,7 +7,6 @@
 def describe_city(city, country="pakistan"):
     print(f"{city} is in {country}.")
 
-# Call the function for different cities and countries
 describe_city("karachi")
 describe_city("multan")
 describe_city("London", "UK")

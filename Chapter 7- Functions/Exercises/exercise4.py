@@ -4,13 +4,6 @@
 
 def make_shirt(size="large", message="I love Python"):
     print(f"Creating a {size} shirt with the message: '{message}'")
-
-# Create a large shirt with the default message
-make_shirt()
-
-# Create a medium shirt with the default message
 make_shirt(size="medium")
-
-# Create a small shirt with a different message
 make_shirt(size="small", message="Python Programmer")
 
