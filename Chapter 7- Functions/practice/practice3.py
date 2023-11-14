@@ -7,7 +7,7 @@ def is_prime (no):
         if no % i == 0:
             return False
         return True
-input = int(input("entre the no if its prime: "))
+input = int(input("enter the no if its prime: "))
 if is_prime(input):
     print(f"{input} is prime no.")
 else:
