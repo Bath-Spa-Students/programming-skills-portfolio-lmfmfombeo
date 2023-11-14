@@ -3,6 +3,4 @@
 
 def display_message():
     print("I am learning about Python programming.")
-
-# Call the function to display the message
 display_message()
