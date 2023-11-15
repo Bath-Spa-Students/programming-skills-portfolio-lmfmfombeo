@@ -1,4 +1,4 @@
-
+#creation of dictionary 
 dictionary = {}
 print("dictionary")
 
@@ -6,4 +6,4 @@ print("dictionary")
 dict = {'name' : 'mohd',
          'rollno' : '1234',
          'fathers name' : 'abdul rashid'}
-print(dictionary,type(dictionary))
+print(dict,type(dictionary))
