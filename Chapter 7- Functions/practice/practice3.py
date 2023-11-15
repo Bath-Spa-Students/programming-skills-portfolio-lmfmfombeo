@@ -1,5 +1,4 @@
 # Write a Python program that uses a function to check if a given number is prime or not
-
 def is_prime (no):
     if no <= 1:
         return False
